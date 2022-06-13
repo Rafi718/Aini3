@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 SIMPEN AE GAN DUITNY
-BUAY NAIK HAJI
+BUAT NAIK HAJI
 rafi-sansline.xyz
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
